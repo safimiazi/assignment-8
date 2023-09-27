@@ -5,6 +5,7 @@ import Donation from "../Pages/Donation/Donation";
 import Home from "../Pages/Home/Home";
 import Statistics from "../Pages/Statistics/Statistics";
 import CardDetails from "../Components/CardDetails/CardDetails";
+import DonationError from "../Pages/DonationError/DonationError";
 
 
 const myCreateRoute = createBrowserRouter([
@@ -20,7 +21,8 @@ const myCreateRoute = createBrowserRouter([
             },
             {
                 path: "/donation",
-                element: <Donation></Donation>
+                element: <Donation></Donation>,
+                errorElement: <DonationError></DonationError>
             },
             {
                 path: "/statistics",
