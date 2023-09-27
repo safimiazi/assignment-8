@@ -2,7 +2,7 @@
 
 const Banner = () => {
     return (
-        <div className="h-[70vh] bg-cover rounded my-10 bg-[url('https://i.ibb.co/tPz3tK9/Rectangle-4281.png?fbclid=IwAR2NBwfDCkiqEsYvwH7XU4DncCodQZZ34f3ILeWty0nbKGW4r4MPa7atIfU')]">
+        <div className="h-[70vh] bg-cover rounded my-8 bg-[url('https://i.ibb.co/tPz3tK9/Rectangle-4281.png?fbclid=IwAR2NBwfDCkiqEsYvwH7XU4DncCodQZZ34f3ILeWty0nbKGW4r4MPa7atIfU')]">
             <div className="w-full h-full  flex justify-center items-center   flex-col bg-white/80">
                 <h1 className="font-bold text-4xl">I Grow By Helping People In Need</h1>
                 <div className="flex justify-center my-5">
