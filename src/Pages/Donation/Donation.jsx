@@ -45,9 +45,9 @@ const Donation = () => {
                                 <button style={{backgroundColor:card.buttonBackgroundColor}}>{card.category}</button>
                                 <h1 className="text-2xl font-bold">{card.title}</h1>
                                 <p className="py-6" style={{color:card.titleColor}}>${card.price}</p>
-                                <Link to="/donation"> 
+                                
                                 <button style={{backgroundColor: card.buttonBackgroundColor}} className="btn">View Details</button>
-                                </Link>
+                                
                             </div>
                         </div>
                     </div>
