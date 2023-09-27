@@ -1,0 +1,134 @@
+[
+    {
+      "id": 1,
+      "category": "Health",
+      "title": "Clean water for children",
+      "backgroundColor": "#0052ff26",
+      "buttonBackgroundColor": "#0052ff33",
+      "image": "../Resources/Education.png",
+      "price": "167",
+      "titleColor": "#0052FF",
+      "description": "Ensuring access to clean and safe drinking water is a fundamental right. Clean water is essential for sustaining life and promoting good health. Our mission is to provide clean water solutions for children in need, preventing waterborne diseases and improving their overall well-being. With your support, we can make a significant impact on the lives of these young individuals. Join us in this vital effort to provide a brighter future through access to clean water."
+    },
+    {
+      "id": 2,
+      "category": "Education",
+      "title": "Good education",
+      "backgroundColor": "#ff444a26",
+      "price": "100",
+      "buttonBackgroundColor": "#ff444a33",
+      "image": "../Resources/Food.png",
+      "titleColor": "#FF444A",
+      "description": "Ensuring access to clean and safe drinking water is a fundamental right. Clean water is essential for sustaining life and promoting good health. Our mission is to provide clean water solutions for children in need, preventing waterborne diseases and improving their overall well-being. With your support, we can make a significant impact on the lives of these young individuals. Join us in this vital effort to provide a brighter future through access to clean water."
+    },
+    {
+      "id": 3,
+      "category": "Clothing",
+      "title": "Used Clothing Drive",
+      "backgroundColor": "#79c23f26",
+      "price": "187",
+      "buttonBackgroundColor": "#79c23f33",
+      "image": "../Resources/Health.png",
+      "titleColor": "#79C23F",
+      "description": "Ensuring access to clean and safe drinking water is a fundamental right. Clean water is essential for sustaining life and promoting good health. Our mission is to provide clean water solutions for children in need, preventing waterborne diseases and improving their overall well-being. With your support, we can make a significant impact on the lives of these young individuals. Join us in this vital effort to provide a brighter future through access to clean water."
+    },
+    {
+      "id": 4,
+      "category": "Food",
+      "title": "Better Food for Everyone",
+      "backgroundColor": "#f8714726",
+      "price": "149",
+      "buttonBackgroundColor": "#f8714733",
+      "image": "../Resources/Education.png",
+      "titleColor": "#F87147",
+      "description": "Ensuring access to clean and safe drinking water is a fundamental right. Clean water is essential for sustaining life and promoting good health. Our mission is to provide clean water solutions for children in need, preventing waterborne diseases and improving their overall well-being. With your support, we can make a significant impact on the lives of these young individuals. Join us in this vital effort to provide a brighter future through access to clean water."
+    },
+    {
+      "id": 5,
+      "category": "Food",
+      "title": "Better Food for Everyone",
+      "backgroundColor": "#f8714726",
+      "price": "159",
+      "buttonBackgroundColor": "#f8714733",
+      "image": "../Resources/Health.png",
+      "titleColor": "#F87147",
+      "description": "Ensuring access to clean and safe drinking water is a fundamental right. Clean water is essential for sustaining life and promoting good health. Our mission is to provide clean water solutions for children in need, preventing waterborne diseases and improving their overall well-being. With your support, we can make a significant impact on the lives of these young individuals. Join us in this vital effort to provide a brighter future through access to clean water."
+    },
+    {
+      "id": 6,
+      "category": "Clothing",
+      "title": "Used Clothing Drive",
+      "backgroundColor": "#79c23f26",
+      "price": "129",
+      "buttonBackgroundColor": "#79c23f33",
+      "image": "../Resources/Clothing.png",
+      "titleColor": "#79C23F",
+      "description": "Ensuring access to clean and safe drinking water is a fundamental right. Clean water is essential for sustaining life and promoting good health. Our mission is to provide clean water solutions for children in need, preventing waterborne diseases and improving their overall well-being. With your support, we can make a significant impact on the lives of these young individuals. Join us in this vital effort to provide a brighter future through access to clean water."
+    },
+    {
+      "id": 7,
+      "category": "Education",
+      "title": "Good education",
+      "backgroundColor": "#ff444a26",
+      "price": "198",
+      "buttonBackgroundColor": "#ff444a33",
+      "image": "../Resources/Education.png",
+      "titleColor": "#FF444A",
+      "description": "Ensuring access to clean and safe drinking water is a fundamental right. Clean water is essential for sustaining life and promoting good health. Our mission is to provide clean water solutions for children in need, preventing waterborne diseases and improving their overall well-being. With your support, we can make a significant impact on the lives of these young individuals. Join us in this vital effort to provide a brighter future through access to clean water."
+    },
+    {
+      "id": 8,
+      "category": "Health",
+      "title": "Clean water for children",
+      "backgroundColor": "#0052ff26",
+      "price": "109",
+      "buttonBackgroundColor": "#0052ff33",
+      "image": "../Resources/Health.png",
+      "titleColor": "#0052FF",
+      "description": "Ensuring access to clean and safe drinking water is a fundamental right. Clean water is essential for sustaining life and promoting good health. Our mission is to provide clean water solutions for children in need, preventing waterborne diseases and improving their overall well-being. With your support, we can make a significant impact on the lives of these young individuals. Join us in this vital effort to provide a brighter future through access to clean water."
+    },
+    {
+      "id": 9,
+      "category": "Health",
+      "title": "Clean water for children",
+      "backgroundColor": "#0052ff26",
+      "price": "189",
+      "buttonBackgroundColor": "#0052ff33",
+      "image": "../Resources/Health.png",
+      "titleColor": "#0052FF",
+      "description": "Ensuring access to clean and safe drinking water is a fundamental right. Clean water is essential for sustaining life and promoting good health. Our mission is to provide clean water solutions for children in need, preventing waterborne diseases and improving their overall well-being. With your support, we can make a significant impact on the lives of these young individuals. Join us in this vital effort to provide a brighter future through access to clean water."
+    },
+    {
+      "id": 10,
+      "category": "Education",
+      "title": "Good education",
+      "backgroundColor": "#ff444a26",
+      "price": "139",
+      "buttonBackgroundColor": "#ff444a33",
+      "image": "../Resources/Health.png",
+      "titleColor": "#FF444A",
+      "description": "Ensuring access to clean and safe drinking water is a fundamental right. Clean water is essential for sustaining life and promoting good health. Our mission is to provide clean water solutions for children in need, preventing waterborne diseases and improving their overall well-being. With your support, we can make a significant impact on the lives of these young individuals. Join us in this vital effort to provide a brighter future through access to clean water."
+    },
+    {
+      "id": 11,
+      "category": "Clothing",
+      "title": "Used Clothing Drive",
+      "backgroundColor": "#79c23f26",
+      "price": "189",
+      "buttonBackgroundColor": "#79c23f33",
+      "image": "../Resources/Education.png",
+      "titleColor": "#79C23F",
+      "description": "Ensuring access to clean and safe drinking water is a fundamental right. Clean water is essential for sustaining life and promoting good health. Our mission is to provide clean water solutions for children in need, preventing waterborne diseases and improving their overall well-being. With your support, we can make a significant impact on the lives of these young individuals. Join us in this vital effort to provide a brighter future through access to clean water."
+    },
+    {
+      "id": 12,
+      "category": "Food",
+      "title": "Better Food for Everyone",
+      "backgroundColor": "#f8714726",
+      "buttonBackgroundColor": "#f8714733",
+      "price": "179",
+      "image": "../Resources/Health.png",
+      "titleColor": "#F87147",
+      "description": "Ensuring access to clean and safe drinking water is a fundamental right. Clean water is essential for sustaining life and promoting good health. Our mission is to provide clean water solutions for children in need, preventing waterborne diseases and improving their overall well-being. With your support, we can make a significant impact on the lives of these young individuals. Join us in this vital effort to provide a brighter future through access to clean water."
+    }
+  ]
