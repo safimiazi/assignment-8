@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
 
 const Donation = () => {
@@ -44,7 +45,9 @@ const Donation = () => {
                                 <button style={{backgroundColor:card.buttonBackgroundColor}}>{card.category}</button>
                                 <h1 className="text-2xl font-bold">{card.title}</h1>
                                 <p className="py-6" style={{color:card.titleColor}}>${card.price}</p>
+                                <Link to="/donation"> 
                                 <button style={{backgroundColor: card.buttonBackgroundColor}} className="btn">View Details</button>
+                                </Link>
                             </div>
                         </div>
                     </div>
@@ -55,7 +58,7 @@ const Donation = () => {
         </div>
        
         <div className="flex justify-center">
-        <button onClick={handleClicked}  className={`btn bg-lime-400 ${clicked ? 'hidden': ''}`}>show all</button> 
+        <button onClick={handleClicked}  className={`btn bg-lime-400 ${clicked ? 'hidden': ''} ${card.length > 4 ? '' : 'hidden'}`}>show all</button> 
         </div>
 
         </div>

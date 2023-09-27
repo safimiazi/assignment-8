@@ -17,6 +17,9 @@ const renderCustomizedLabel = ({
   const x = cx + radius * Math.cos(-midAngle * RADIAN);
   const y = cy + radius * Math.sin(-midAngle * RADIAN);
 
+
+
+
   return (
     <text
       className="text-3xl font-bold"
