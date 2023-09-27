@@ -15,7 +15,7 @@ const CardDetails = () => {
             localStorageCard.push(id);
             localStorage.setItem('donations', JSON.stringify(localStorageCard));
             Swal.fire(
-                'Good job!',
+                'Good job!!',
                 'You clicked the button!',
                 'success'
             );
